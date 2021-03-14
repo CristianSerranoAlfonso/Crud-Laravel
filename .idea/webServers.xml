@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4511b2bc-617d-4d06-8e57-d30276ad7c92" name="server_cristian" url="http://cristianserrano.infenlaces.com">
+        <fileTransfer rootFolder="/web/cristianserrano.infenlaces.com/public_html" host="infenlaces.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
